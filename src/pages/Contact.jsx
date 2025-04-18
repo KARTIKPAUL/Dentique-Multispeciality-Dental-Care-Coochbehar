@@ -81,7 +81,7 @@ const Contact = () => {
             <div className="flex justify-center items-center h-full">
               <div className="relative group w-full h-full">
                 <img
-                  src="/img/mahalaxmiRecepetion.jpg"
+                  src="https://images.pexels.com/photos/6129115/pexels-photo-6129115.jpeg?auto=compress&cs=tinysrgb&w=600"
                   alt="Contact"
                   className="w-full min-h-full object-cover rounded-xl shadow-lg  transition-transform"
                 />

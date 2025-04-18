@@ -228,7 +228,7 @@ const MainHome = () => {
               <div className="relative group">
                 <div
                   className="rounded-lg bg-cover bg-center h-72"
-                  style={{ backgroundImage: `url('/img/op/op1.jpg')` }}
+                  style={{ backgroundImage: `url(https://images.pexels.com/photos/287227/pexels-photo-287227.jpeg?auto=compress&cs=tinysrgb&w=600)` }}
                 >
                   {/* <a
               href="/img/op/op1.jpg"

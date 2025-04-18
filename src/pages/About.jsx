@@ -93,7 +93,7 @@ const AboutPage = () => {
             <div className="relative w-full sm:w-1/2 lg:w-2/5 mt-6 rounded-lg group">
               <div className="overflow-hidden rounded-lg shadow-lg transform transition-transform duration-500 hover:scale-105">
                 <img
-                  src="img/sideImage.jpg"
+                  src="https://images.pexels.com/photos/5355865/pexels-photo-5355865.jpeg?auto=compress&cs=tinysrgb&w=600"
                   //src='https://lh3.googleusercontent.com/p/AF1QipNvTfATJcRxDnrGHemuh18dPvEz9USn22BjL7jO=s680-w680-h510'
                   className="h-full w-auto object-cover"
                 />
